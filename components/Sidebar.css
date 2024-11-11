@@ -1,0 +1,43 @@
+.sidebar{
+    background-color:beige;
+    height: 800px;
+    width: 75px;
+    position: relative;
+    bottom: 106px;
+    /* top: 5px; */
+    /* bottom: 135px; */
+    /* position: static;/ */
+    /* padding-top: px;
+    padding-left: 3px; */
+}
+
+.text{
+    position: relative;
+    top: 0px;
+}
+
+.b{
+    background-color: pink;
+    position: relative;
+    top: 10px;
+}
+
+#b1{
+    position: relative;
+    top: 10px;
+}
+
+#b2{
+    position: relative;
+    top: 110px;
+}
+
+#b3{
+    position: relative;
+    top: 150px;
+}
+
+#b4{
+    position: relative;
+    top: 190px;
+}

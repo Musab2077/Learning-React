@@ -1,0 +1,97 @@
+/* Side Bar
+.sidebar{
+  background-color:beige;
+  height: 800px;
+  width: 75px;
+  position: relative;
+  bottom: 135px;
+}
+
+.text{
+  position: relative;
+  top: 0px;
+}
+
+.b{
+  background-color: pink;
+  position: relative;
+  top: 70px;
+}
+
+#b1{
+  position: relative;
+  top: 10px;
+}
+
+#b2{
+  position: relative;
+  top: 110px;
+}
+
+#b3{
+  position: relative;
+  top: 150px;
+}
+
+#b4{
+  position: relative;
+  top: 190px;
+}? */
+
+
+
+
+
+/* Header */
+/* .header{
+  background-color: yellow;
+  height: 30px;
+  padding-left: 20px;
+  padding-left: 80px;
+}
+
+.text{
+  position: relative;
+  top: 323px;
+  left: 323px;
+  font-size: 20px;
+}
+
+.leftToRight{
+  animation: run ease 3s;
+  -webkit-animation: run ease 3s;
+  -moz-animation: run ease 3s;
+  -o-animation: run ease 3s;
+  -ms-animation: run ease 3s;
+}
+
+@keyframes run {
+  0% { margin-left: -40%;}
+  100%{ margin-left: 0%;}
+}
+
+@-moz-keyframes run {
+  0% { margin-left: -98%;}
+  100%{ margin-left: 0%;}
+}
+
+@-webkit-keyframes run {
+  0% { margin-left: -98%;}
+  100%{ margin-left: 0%;}
+}
+
+@-o-keyframes run {
+  0% { margin-left: -98%;}
+  100%{ margin-left: 0%;}
+}
+
+@-ms-keyframes run {
+  0% { margin-left: -98%;}
+  100%{ margin-left: 0%;}
+}
+
+.submit{
+  position: relative;
+  bottom: 15px;
+  left: 5px;
+} */
